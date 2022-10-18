@@ -1,0 +1,27 @@
+h1{
+    color : red
+}
+p{
+    border : 1px solid tomato
+}
+body {
+    background-color: #FFB6C1;
+  }
+nav > a {
+    display:inline ;
+    font: bold;
+    color: crimson;
+    padding-inline:initial;
+  
+}
+a:link{
+    color: green;
+}
+p {
+font-family: 'Roboto';
+font-size: medium;
+font-weight: bold;
+text-align: justify;
+inline-size: auto;
+}
+p{ display: inline;}
